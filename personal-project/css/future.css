@@ -1,0 +1,22 @@
+.jumbotron {
+	background: url('../media/fry.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.jumbotron h1 {
+	padding-top: 90px;
+	padding-left: 30px;
+}
+.sprite {
+	height: 400px;
+}
+.mario {
+	height: 100px;
+	width: 140px;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+#key li {
+	list-style-type: none;
+}
